@@ -4,9 +4,6 @@ import matplotlib.pyplot as plt
 import cv2
 import numpy
 
-import cv2
-import numpy
-
 # Fixing random state for reproducibility
 np.random.seed(19680801)
 
